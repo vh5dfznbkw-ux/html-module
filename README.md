@@ -181,7 +181,7 @@ https://docs.oracle.com/cd/E21764_01/doc.1111/e10634/img/new_template.gif
  
 Что нужно использовать:
 Теги <form>, <input> (разных типов), <select>, <textarea>, <button>, а также таблицу или div для выравнивания элементов по колонкам. Обратите внимание на обязательные поля со звездочкой *.
-```html
+````html
 <!DOCTYPE html>
 <html lang="en">
 <head>
