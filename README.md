@@ -181,7 +181,8 @@ https://docs.oracle.com/cd/E21764_01/doc.1111/e10634/img/new_template.gif
  
 Что нужно использовать:
 Теги <form>, <input> (разных типов), <select>, <textarea>, <button>, а также таблицу или div для выравнивания элементов по колонкам. Обратите внимание на обязательные поля со звездочкой *.
-````html
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -261,6 +262,7 @@ https://docs.oracle.com/cd/E21764_01/doc.1111/e10634/img/new_template.gif
 
 </body>
 </html>
+
 ```
 
 ## Задание 2: Макет сайта (Green and Plain)
@@ -271,6 +273,7 @@ https://blog.hostbillapp.com/wp-content/uploads/2009/11/original.jpg
  
 Что нужно использовать:
 Семантические теги (например, <header>, <main>, <aside>, <footer>), списки <ul> для меню навигации, теги заголовков и параграфов для текста. Для создания сетки (две колонки) можно использовать display: flex во внутренних стилях или табличную верстку.
+
 ```html
 <!--
 HTML - скелет сайта
